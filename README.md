@@ -1,1 +1,1 @@
-# Skin-Cancer-Prediction-using-CNN-Model
+# Skin-Cancer-Prediction-Using-CNN-Model
